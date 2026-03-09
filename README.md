@@ -24,7 +24,9 @@
 ### 提交🌿
 
 <div align="left" style="display: flex;">
+  <img height="243px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hankliu62&theme=tokyonight" />
   <img height="243px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hankliu62&theme=tokyonight" />
+  <img height="243px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hankliu62&theme=tokyonight" />
 </div>
 <!--
 <div align="left" style="display: flex;">
