@@ -7,9 +7,9 @@
   </div>
 
   <!-- dynamic typing effect 个人简介 动态打字效果 -->
-  <div>
+  <!-- <div>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=635&lines=努力去听风的声音，不必在意风的方向&center=true&size=22&color=722ed1" />
-  </div>
+  </div> -->
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
@@ -20,9 +20,13 @@
 
 </div>
 
-<!--
+
 ### 提交🌿
 
+<div align="left" style="display: flex;">
+  <img height="243px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hankliu62&theme=tokyonight" />
+</div>
+<!--
 <div align="left" style="display: flex;">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=hankliu62&show_icons=true&theme=tokyonight" />
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hankliu62&theme=tokyonight" />
